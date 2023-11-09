@@ -1,0 +1,650 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+/*
+
+
+HEAD 1
+
+
+*/
+h1 {
+    /* Vormgeving */
+    padding-top: 15px;
+    padding-bottom: 200px;
+    height: 260px;
+
+    /* Tekst */
+    color: black;
+    text-align: center;
+    font-family:'Joti One' , serif;
+    font-size: 40px;
+
+    /* Achtergrond foto van h1 */
+    background-position: center;
+    background-size:cover;
+    background-image: url(foto_vanalles/achtergrond_h1.png)
+}
+/*
+
+
+NAVIGATIE
+
+
+*/
+nav ol {
+    /* Flexbox */
+    display: flex;
+
+    /* Text */
+    text-align: center;
+
+    /* Vormgeving */
+    background-color: whitesmoke;
+    padding: 27px;
+    list-style: none;
+    border-top: 4px solid green;
+    border-bottom: 4px solid green;
+
+    /* Extra Ruimte */
+    justify-content: space-evenly; 
+
+}
+
+nav li a {
+    /* Tekst */
+    font-size: 16px;
+    text-decoration: none;
+    font-family: 'Edu TAS Beginner', cursive;
+    color: black;
+}
+/*
+
+
+MAIN - Homepagina
+
+
+*/
+.main ul {
+
+    /* Vormgeving */
+    background-color: whitesmoke;
+}
+/*
+
+
+Over Ons
+
+
+*/
+.OOns a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+    border: 1px lightgreen;
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.OOns p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.OOns h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/*
+
+
+Ons Plan
+
+
+*/
+.OPlan a {
+
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+    border: 1px lightgreen;
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.OPlan p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;  
+
+}
+
+/* TEKST */
+.OPlan h2 {
+
+   /* Vormgeving */
+   padding: 10px;
+   border-top: 3px solid lightgreen;
+   border-bottom: 3px solid lightgreen;
+
+   /* Tekst */
+   text-align: center;
+   font-size: 27px;
+   font-family:'Joti One', serif;
+   background-color: white;
+
+}
+/*
+
+
+
+
+Foto's  
+
+
+
+
+*/
+.FOT h2 {
+
+   /* Vormgeving */
+   padding: 10px;
+   border-top: 3px solid lightgreen;
+   border-bottom: 3px solid lightgreen;
+
+   /* Tekst */
+   text-align: center;
+   font-size: 27px;
+   font-family:'Joti One', serif;
+   background-color: white;
+
+}
+
+.FOT2 {
+   /* Vormgeving */
+   padding: 10px;
+   padding-bottom: 200px;
+   border-bottom: 3px solid lightgreen;
+
+   /* Tekst */
+   text-align: center;
+   font-size: 27px;
+   font-family:'Joti One', serif;
+   background-color: white;
+
+   /* Achtergrond foto van FOT */
+   background-position: center;
+   background-size:cover;
+   background-image: url(foto_vanalles/achtergrond_fot.png)
+}
+/*
+
+
+
+
+Pagina 1
+
+
+
+
+*/
+/*
+
+
+Main - Pagina 1
+
+*/
+.main1 ul {
+    /* Vormgeving */
+    background-color: whitesmoke;
+    border-bottom: 4px green;
+    padding-bottom: 10px;
+}
+/*
+
+
+
+Green Deal - Pagina 1
+
+
+
+*/
+.GD a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+    border: 1px lightgreen;
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.GD p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.GD h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/* 
+
+
+
+
+Green Deal in Amsterdam
+
+
+
+
+*/
+.GDiA a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+    border: 1px lightgreen;
+    
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.GDiA p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.GDiA h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/*
+
+
+
+
+
+Pagina 2
+
+
+
+
+
+*/
+/* 
+
+Main - Pagina 2 
+
+*/
+.main2 ul{
+    background-color: whitesmoke;
+    border-top: 4px solid green;
+    padding-bottom: 10px;
+}
+/*
+
+Fietsen - Pagina 2
+
+*/
+.FIE a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    border: 1px lightgreen;
+    
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.FIE p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.FIE h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/* 
+
+
+Waarom Fietsen Mensen Niet
+
+
+*/
+.WFMN a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    border: 1px lightgreen;
+    
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.WFMN p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.WFMN h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 23 px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/*
+
+
+
+Pagina 3
+
+
+
+*/
+/* 
+
+Main - Pagina 3
+
+*/
+.main3 ul{
+    background-color: whitesmoke;
+    border-top: 4px solid green;
+    padding-bottom: 0,1px;
+}
+/*
+
+CO2-Uitstoot - Pagina 3
+
+*/
+.CO2U a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    border: 1px lightgreen;
+    
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.CO2U p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.CO2U h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/* 
+
+
+Verminderen CO2-Uitstoot - Pagina 3
+
+
+*/
+.VCO2U a {
+    /* Vormgeving */
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    border: 1px lightgreen;
+    
+
+    /* Tekst */
+    text-decoration: none;
+    color: black;
+    text-decoration: dashed black;
+    font-size: 12px;
+}
+
+.VCO2U p {
+
+    /* Vormgeving */
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 7px;
+    border: 2px solid lightgreen;
+
+    /* Tekst */
+    font-size: 11px;
+    background-color: whitesmoke;
+    font-family:'Edu TAS Beginner' , cursive;
+    
+}
+
+.VCO2U h2 {
+
+    /* Vormgeving */
+    padding: 10px;
+    border-top: 3px solid lightgreen;
+    border-bottom: 3px solid lightgreen;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 27 px;
+    font-family:'Joti One', serif;
+    background-color: white;
+
+}
+/*
+
+
+
+
+
+
+
+
+
+
+
+
+FOOTER VAN ALLE PAGINA'S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+.FR {
+
+    /* Vormgeving */
+    padding: 5px;
+    border-bottom: 4px solid green;
+    border-top: 4px solid green;
+
+    /* Tekst */
+    text-align: center;
+    font-size: 10px;
+    font-family:'Joti one', serif;
+    background-color: azure;
+
+}
+
+.FR p {
+    /* Tekst */
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
