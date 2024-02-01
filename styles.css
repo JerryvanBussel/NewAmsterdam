@@ -95,16 +95,16 @@ Over Ons
 
 .OOns p {
 
-    /* Vormgeving */
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 7px;
-    border: 2px solid lightgreen;
+   /* Vormgeving */
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 7px;
+   border: 1px solid lightgreen;
 
-    /* Tekst */
-    font-size: 11px;
-    background-color: whitesmoke;
-    font-family: "Ubuntu", sans-serif;
+   /* Tekst */
+   font-size: 14px;
+   background-color: whitesmoke;
+   font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -146,16 +146,16 @@ Ons Plan
 
 .OPlan p {
 
-    /* Vormgeving */
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 7px;
-    border: 2px solid lightgreen;
+   /* Vormgeving */
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 7px;
+   border: 1px solid lightgreen;
 
-    /* Tekst */
-    font-size: 11px;
-    background-color: whitesmoke;
-    font-family:"Ubuntu", sans-serif;  
+   /* Tekst */
+   font-size: 14px;
+   background-color: whitesmoke;
+   font-family:"Ubuntu", sans-serif;  
 
 }
 
@@ -269,10 +269,10 @@ Green Deal - Pagina 1
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 7px;
-    border: 2px solid lightgreen;
+    border: 1px solid lightgreen;
 
     /* Tekst */
-    font-size: 11px;
+    font-size: 14px;
     background-color: whitesmoke;
     font-family:"Ubuntu", sans-serif;
     
@@ -323,10 +323,10 @@ Green Deal in Amsterdam
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 7px;
-    border: 2px solid lightgreen;
+    border: 1px solid lightgreen;
 
     /* Tekst */
-    font-size: 11px;
+    font-size: 14px;
     background-color: whitesmoke;
     font-family:"Ubuntu", sans-serif;
     
@@ -391,16 +391,16 @@ Fietsen - Pagina 2
 
 .FIE p {
 
-    /* Vormgeving */
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 7px;
-    border: 2px solid lightgreen;
+   /* Vormgeving */
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 7px;
+   border: 1px solid lightgreen;
 
-    /* Tekst */
-    font-size: 11px;
-    background-color: whitesmoke;
-    font-family: "Ubuntu", sans-serif;
+   /* Tekst */
+   font-size: 14px;
+   background-color: whitesmoke;
+   font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -446,10 +446,10 @@ Waarom Fietsen Mensen Niet
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 7px;
-    border: 2px solid lightgreen;
+    border: 1px solid lightgreen;
 
     /* Tekst */
-    font-size: 11px;
+    font-size: 14px;
     background-color: whitesmoke;
     font-family:"Ubuntu", sans-serif;
     
@@ -514,10 +514,10 @@ CO2-Uitstoot - Pagina 3
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 7px;
-    border: 2px solid lightgreen;
+    border: 1px solid lightgreen;
 
     /* Tekst */
-    font-size: 11px;
+    font-size: 14px;
     background-color: whitesmoke;
     font-family:"Ubuntu", sans-serif;
     
@@ -563,12 +563,12 @@ Verminderen CO2-Uitstoot - Pagina 3
 
     /* Vormgeving */
     margin-top: 10px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     padding: 7px;
-    border: 2px solid lightgreen;
+    border: 1px solid lightgreen;
 
     /* Tekst */
-    font-size: 11px;
+    font-size: 14px;
     background-color: whitesmoke;
     font-family:"Ubuntu", sans-serif;
 
@@ -608,7 +608,7 @@ FOOTER VAN ALLE PAGINA'S
     text-align: center;
     font-size: 10px;
     font-family:'Joti one', serif;
-    background-color: azure;
+    background-color: whitesmoke;
 
 }
 
