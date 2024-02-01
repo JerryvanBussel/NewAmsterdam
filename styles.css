@@ -67,7 +67,7 @@ MAIN - Homepagina
 
 
 */
-.main li {
+.main {
 
     /* Vormgeving */
     background-color: whitesmoke;
@@ -234,7 +234,7 @@ Pagina 1
 Main - Pagina 1
 
 */
-.main1 li {
+.main {
     /* Vormgeving */
     background-color: whitesmoke;
     border-bottom: 4px green;
@@ -364,7 +364,7 @@ Pagina 2
 Main - Pagina 2 
 
 */
-.main2 li {
+.main {
     background-color: whitesmoke;
     border-top: 4px solid green;
     padding-bottom: 10px;
@@ -483,7 +483,7 @@ Pagina 3
 Main - Pagina 3
 
 */
-.main3 li {
+.main {
     background-color: whitesmoke;
     border-top: 4px solid green;
     padding-bottom: 0,1px;
