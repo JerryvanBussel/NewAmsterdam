@@ -547,7 +547,7 @@ Verminderen CO2-Uitstoot - Pagina 3
 .VCO2U a {
     /* Vormgeving */
     display: flex;
-    margin: 10px;
+    margin: 20px;
     justify-content: center;
     border: 1px lightgreen;
     
