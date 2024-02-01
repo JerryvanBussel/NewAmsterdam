@@ -19,7 +19,7 @@ h1 {
     /* Tekst */
     color: black;
     text-align: center;
-    font-family:'Joti One' , serif;
+    font-family:'Joti One', serif;
     font-size: 40px;
 
     /* Achtergrond foto van h1 */
@@ -57,7 +57,7 @@ nav li a {
     /* Tekst */
     font-size: 16px;
     text-decoration: none;
-    font-family: 'Edu TAS Beginner', cursive;
+    font-family: "Ubuntu", sans-serif;
     color: black;
 }
 /*
@@ -104,7 +104,7 @@ Over Ons
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family: "Ubuntu", sans-serif;
     
 }
 
@@ -155,7 +155,7 @@ Ons Plan
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;  
+    font-family:"Ubuntu", sans-serif;  
 
 }
 
@@ -274,7 +274,7 @@ Green Deal - Pagina 1
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -328,7 +328,7 @@ Green Deal in Amsterdam
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -400,7 +400,7 @@ Fietsen - Pagina 2
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family: "Ubuntu", sans-serif;
     
 }
 
@@ -451,7 +451,7 @@ Waarom Fietsen Mensen Niet
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -519,7 +519,7 @@ CO2-Uitstoot - Pagina 3
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
+    font-family:"Ubuntu", sans-serif;
     
 }
 
@@ -547,7 +547,7 @@ Verminderen CO2-Uitstoot - Pagina 3
 .VCO2U a {
     /* Vormgeving */
     display: flex;
-    margin: 20px;
+    margin: 10px;
     justify-content: center;
     border: 1px lightgreen;
     
@@ -570,8 +570,8 @@ Verminderen CO2-Uitstoot - Pagina 3
     /* Tekst */
     font-size: 11px;
     background-color: whitesmoke;
-    font-family:'Edu TAS Beginner' , cursive;
-    
+    font-family:"Ubuntu", sans-serif;
+
 }
 
 .VCO2U h2 {
@@ -593,27 +593,7 @@ Verminderen CO2-Uitstoot - Pagina 3
 
 
 
-
-
-
-
-
-
-
-
 FOOTER VAN ALLE PAGINA'S
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 */
